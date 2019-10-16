@@ -10,8 +10,8 @@ Su casa, el silencio, aún nadie llegaba, todos estaban en sus labores diarias o
 **20:45**
 Papá pregunto por ella, mamá se preocupó, nadie sabía nada.
 
-_la suma de los eventos te llevarán a saber qué ha sido de ella, tal como sabes que 297 es un número Kaprekar porque $297^2 = 88209$
-y $88 + 209 = 297$. Encuentra el mayor número Kaprecar menor que 100 y sigue adelante._
+_la suma de los eventos te llevarán a saber qué ha sido de ella, tal como sabes que 297 es un número Kaprekar porque 297^2 = 88209
+y 88 + 209 = 297. Encuentra el mayor número Kaprecar menor que 100 y sigue adelante._
 
 **RTA Coorecta:** 99
 
