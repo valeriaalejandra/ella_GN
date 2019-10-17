@@ -1,4 +1,12 @@
-# ella_GN
-Novela gráfica construida de forma comunitaria con elementos de gamification y retos matemáticos.
+# Ella - Novela Gráfica con matemáticas y gamification
 
-![coverage](https://img.shields.io/badge/appveyor/ci/:piratax007@protonmail.ch/:colegio-seminario-diocesano-de-duitama/:ella_GN)
+## Tabla de contenido
+
+1. [Introducción](#Introducción)<a name="Introducción"></a>
+2. [Rationale](#Rationale)
+3. [Learning outcomes](#Learning_outcomes)
+4. [Development team](#Development_team)
+5. [Key documents](#Key_documents)
+6. [Licenses](#Licenses)
+
+## Introducción
