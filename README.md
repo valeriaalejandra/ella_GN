@@ -3,10 +3,30 @@
 ## Tabla de contenido
 
 1. [Introducción](#Introducción)<a name="Introducción"></a>
-2. [Rationale](#Rationale)
-3. [Learning outcomes](#Learning_outcomes)
-4. [Development team](#Development_team)
-5. [Key documents](#Key_documents)
-6. [Licenses](#Licenses)
+2. [Objetivos de aprendizaje](#Objetivos_de_aprendizaje)<a name="Objetivos de aprendizaje"></a>
+3. [Documentos clave](#Documentos clave)<a name="Documentos clave"></a>
+4. [Licencias](#Licencias)<a name="Licencias"></a>
+5. [Contribuidores](#Contribuidores)<a name="Contribuidores"></a>
 
 ## Introducción
+
+Ella es una iniciativa estudiantíl enfocada a crear una novela gráfica con elementos de gamification donde se utilicen retos matemáticos para avanzar en el desarrollo de la historia de un personaje ficticio - ella - quien es una estudiante que aparentemente desaparece después de salir de clase un día en la tarde. El desarrollo de la historia es completamente desconocido y depende de los aportes de los contribuidores.
+
+## Objetivos
+
+- Construir una novella gráfica con elementos de gamification.
+- Utilizar interesantes problemas de matemáticas como elemento condicional para el desarrollo de la historia.
+- Desarrollar un material de aprendizaje que despierte el interés por resolver problemas en matemáticas.
+
+## Documentos clave
+
+- [Contribuciones](https://github.com/colegio-seminario-diocesano-de-duitama/ella_GN/blob/master/contribuciones.md): Cómo contribuir a la construcción de **ella**.
+
+- [Código de conducta](https://github.com/colegio-seminario-diocesano-de-duitama/ella_GN/blob/master/código_de_conducta.md): Las normas que deben tenerse en cuenta para formular _pullrequest_ y contribuciones a **ella**.
+
+## Licencias
+
+[CC By-NC-SA 4.0 International](https://github.com/colegio-seminario-diocesano-de-duitama/ella_GN/blob/master/license.txt): Todos los contenidos de **ella** están publicados bajo los términos de una licencia Creative Commons - reconocimiento - sin uso comercial - compartir igual.
+
+## Contribuidores
+[@piratax007](https://twitter.com/piratax007), Natalia Porras (Gráficas), Angie Díaz (escritora)
