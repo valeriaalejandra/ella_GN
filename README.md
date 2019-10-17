@@ -3,7 +3,7 @@
 ## Tabla de contenido
 
 1. [Introducción](#Introducción)<a name="Introducción"></a>
-2. [Objetivos de aprendizaje](#Objetivos_de_aprendizaje)<a name="Objetivos de aprendizaje"></a>
+2. [Objetivos](#Objetivos)<a name="Objetivos"></a>
 3. [Documentos clave](#Documentos_clave)<a name="Documentos clave"></a>
 4. [Licencias](#Licencias)<a name="Licencias"></a>
 5. [Contribuidores](#Contribuidores)<a name="Contribuidores"></a>
