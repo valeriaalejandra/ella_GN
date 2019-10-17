@@ -26,8 +26,7 @@ Ella es una iniciativa estudiantíl enfocada a crear una novela gráfica con ele
 
 ## Licencias
 
-![license](https://img.shields.io/badge/license-CC By-NC-SA 4.0 International-cyangreen)
-[CC By-NC-SA 4.0 International](https://github.com/colegio-seminario-diocesano-de-duitama/ella_GN/blob/master/license.txt): Todos los contenidos de **ella** están publicados bajo los términos de una licencia Creative Commons - reconocimiento - sin uso comercial - compartir igual.
+![License](https://img.shields.io/badge/license-CC_By_NC_SA_4.0_International-cyangreen) Todos los contenidos de **ella** están publicados bajo los términos de una licencia Creative Commons - reconocimiento - sin uso comercial - compartir igual.
 
 ## Contribuidores
 [@piratax007](https://twitter.com/piratax007), Natalia Porras (Gráficas), Angie Díaz (escritora), aquí va tu nombre.
