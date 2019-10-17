@@ -26,6 +26,7 @@ Ella es una iniciativa estudiantíl enfocada a crear una novela gráfica con ele
 
 ## Licencias
 
+![license](https://img.shields.io/badge/license-CC By-NC-SA 4.0 International-cyangreen)
 [CC By-NC-SA 4.0 International](https://github.com/colegio-seminario-diocesano-de-duitama/ella_GN/blob/master/license.txt): Todos los contenidos de **ella** están publicados bajo los términos de una licencia Creative Commons - reconocimiento - sin uso comercial - compartir igual.
 
 ## Contribuidores
