@@ -4,7 +4,7 @@
 
 1. [Introducción](#Introducción)<a name="Introducción"></a>
 2. [Objetivos](#Objetivos)<a name="Objetivos"></a>
-3. [Documentos clave](#Documentos_clave)<a name="Documentos clave"></a>
+3. [Documentos clave](#Documentos_clave)<a name="Documentos_clave"></a>
 4. [Licencias](#Licencias)<a name="Licencias"></a>
 5. [Contribuidores](#Contribuidores)<a name="Contribuidores"></a>
 
@@ -18,7 +18,7 @@ Ella es una iniciativa estudiantíl enfocada a crear una novela gráfica con ele
 - Utilizar interesantes problemas de matemáticas como elemento condicional para el desarrollo de la historia.
 - Desarrollar un material de aprendizaje que despierte el interés por resolver problemas en matemáticas.
 
-## Documentos clave
+## Documentos_clave
 
 - [Contribuciones](https://github.com/colegio-seminario-diocesano-de-duitama/ella_GN/blob/master/contribuciones.md): Cómo contribuir a la construcción de **ella**.
 
@@ -29,4 +29,4 @@ Ella es una iniciativa estudiantíl enfocada a crear una novela gráfica con ele
 [CC By-NC-SA 4.0 International](https://github.com/colegio-seminario-diocesano-de-duitama/ella_GN/blob/master/license.txt): Todos los contenidos de **ella** están publicados bajo los términos de una licencia Creative Commons - reconocimiento - sin uso comercial - compartir igual.
 
 ## Contribuidores
-[@piratax007](https://twitter.com/piratax007), Natalia Porras (Gráficas), Angie Díaz (escritora)
+[@piratax007](https://twitter.com/piratax007), Natalia Porras (Gráficas), Angie Díaz (escritora), aquí va tu nombre.
