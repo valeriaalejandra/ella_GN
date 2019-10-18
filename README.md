@@ -29,7 +29,7 @@ Ella es una iniciativa estudiantíl enfocada a crear una novela gráfica con ele
 ![License](https://img.shields.io/badge/license-CC_By_NC_SA_4.0_International-cyangreen) Todos los contenidos de **ella** están publicados bajo los términos de una licencia Creative Commons - reconocimiento - sin uso comercial - compartir igual.
 
 ## Contribuidores
-- [@piratax007](https://twitter.com/piratax007), 
+- Compilador - [@piratax007](https://twitter.com/piratax007), 
 
 - Graficas - Natalia Porras, 
 - Gráficas - Camilo José Rivera
