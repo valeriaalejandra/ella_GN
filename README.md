@@ -29,14 +29,16 @@ Ella es una iniciativa estudiantíl enfocada a crear una novela gráfica con ele
 ![License](https://img.shields.io/badge/license-CC_By_NC_SA_4.0_International-cyangreen) Todos los contenidos de **ella** están publicados bajo los términos de una licencia Creative Commons - reconocimiento - sin uso comercial - compartir igual.
 
 ## Contribuidores
-- Compilador - [@piratax007](https://twitter.com/piratax007), 
+- ![Compilador](https://img.shields.io/badge/compilador-@piratax007-#D5A020)
 
-- Graficas - Natalia Porras, 
-- Gráficas - Camilo José Rivera
+- ![Graficador](https://img.shields.io/badge/graficador-Natalia_Porras-orange)
+- ![Graficador](https://img.shields.io/badge/graficador-Camilo_José_Rivera-orange)
 
-- Editor - Angie Díaz
-- Editor - Sarah Suárez
-- Editor - Juan Esteban Torres
-- Editor - María Lucía Mariño
-- Editor - Valentina Reyes
-- Editor - Samuel Velazco
+- ![Editor](https://img.shields.io/badge/editor-Angie_Días-green)
+- ![Editor](https://img.shields.io/badge/editor-Sarah_Suárez-green)
+- ![Editor](https://img.shields.io/badge/editor-Juan_Esteban_Torres-green)
+- ![Editor](https://img.shields.io/badge/editor-María_Lucía_Mariño-green)
+- ![Editor](https://img.shields.io/badge/editor-Valentina_Reyes-green)
+- ![Editor](https://img.shields.io/badge/editor-Samuel_Velazco-green)
+
+- ![Escritor](https://img.shields.io/badge/escritor-tu_nombre-green)
