@@ -10,7 +10,7 @@
 
 ## Introducción
 
-Ella es una iniciativa estudiantíl enfocada a crear una novela gráfica con elementos de gamification donde se utilicen retos matemáticos para avanzar en el desarrollo de la historia de un personaje ficticio - ella - quien es una estudiante que aparentemente desaparece después de salir de clase un día en la tarde. El desarrollo de la historia es completamente desconocido y depende de los aportes de los contribuidores.
+Ella es una iniciativa estudiantíl enfocada a crear una novela gráfica con elementos de gamification donde se utilicen retos matemáticos para avanzar en el desarrollo de la historia de un personaje ficticio - ella - quien es una persona que pertenece a una institución educativa (hombre, mujer, estudiante, profesor@) El desarrollo de la historia es completamente desconocido y depende de los aportes de los contribuidores.
 
 ## Objetivos
 
