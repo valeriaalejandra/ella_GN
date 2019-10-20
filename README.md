@@ -33,10 +33,10 @@ A partir de allí los escritores determinarán la continuación de la historia d
 ![License](https://img.shields.io/badge/license-CC_By_NC_SA_4.0_International-cyangreen) Todos los contenidos de **ella** están publicados bajo los términos de una licencia Creative Commons - reconocimiento - sin uso comercial - compartir igual.
 
 ## Contribuidores
-- ![Compilador](https://img.shields.io/badge/compilador-Fausto_M_Lagos_S-D5A020)
+- ![Compilador](https://img.shields.io/badge/compilador-Fausto_M_Lagos_S-D5A020), ![Compilador](https://img.shields.io/badge/compilador-María_Sol_Botello-D5A020)
 
 - ![Graficador](https://img.shields.io/badge/graficador-Natalia_Porras-orange), ![Graficador](https://img.shields.io/badge/graficador-Camilo_José_Rivera-orange)
 
-- ![Editor](https://img.shields.io/badge/editor-María_Sol_Botello-green), ![Editor](https://img.shields.io/badge/editor-Angie_Díaz-green), ![Editor](https://img.shields.io/badge/editor-Sarah_Suárez-green), ![Editor](https://img.shields.io/badge/editor-Juan_Esteban_Torres-green), ![Editor](https://img.shields.io/badge/editor-María_Lucía_Mariño-green), ![Editor](https://img.shields.io/badge/editor-Valentina_Reyes-green), ![Editor](https://img.shields.io/badge/editor-Samuel_Velazco-green)
+- ![Editor](https://img.shields.io/badge/editor-Angie_Díaz-green), ![Editor](https://img.shields.io/badge/editor-Sarah_Suárez-green), ![Editor](https://img.shields.io/badge/editor-Juan_Esteban_Torres-green), ![Editor](https://img.shields.io/badge/editor-María_Lucía_Mariño-green), ![Editor](https://img.shields.io/badge/editor-Valentina_Reyes-green), ![Editor](https://img.shields.io/badge/editor-Samuel_Velazco-green)
 
 - ![Escritor](https://img.shields.io/badge/escritor-tu_nombre-blue)
