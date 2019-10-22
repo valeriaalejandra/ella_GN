@@ -1,6 +1,7 @@
 ## Octubre, lunes 21 - 2019
 **Primera opción**
--**19:45** En la soledad de su casa sintió que la nostalgia la abrumaba más. Era la hora de tomar su medicamento…¿mas, menos?...
+
+**19:45** En la soledad de su casa sintió que la nostalgia la abrumaba más. Era la hora de tomar su medicamento…¿mas, menos?...
 **20:15** El olor del aire empieza a tornarse peculiar, ella se queda dormida. Despierta!!!... Despierta!!!... Despierta!!!... es lo único que escucha entre su “sueño”, es la voz de una anciana llamándola. ¿Seguía aún en su casa?
 
 45^2 = 2025 
