@@ -3,6 +3,8 @@ Ten cuidado de no borrar la plantilla ni las demás contribuciones.
 
 Este es el camino Incorrecto-Correcto-Incorrecto, es la continuación de https://github.com/soleil-zero/ella_GN/blob/master/3/CI.md
 
+**En esta entrega tienes que acabar esta línea de historia**
+
 Si ves que hay dos repuestas, edita otra línea de la historia.
 
 **********************************************************************
