@@ -1,8 +1,10 @@
 Hola! Por favor edita este documento siguiendo la plantilla debajo, ***incluyendo la línea de separación y el encabezado.***
 Ten cuidado de no borrar la plantilla ni las demás contribuciones. 
-Si eliges continuar la respuesta incorecta de la respuesta incorrecta entonces tienes que darle final a esa línea.
 
-Este es el camino Incorrecto-Incorrecto-Incorrecto, en esta entrega tienes que acabar esta línea de historia (no tiene continuación)
+Este es el camino Incorrecto-Correcto-Incorrecto, es la continuación de https://github.com/soleil-zero/ella_GN/blob/master/3/IC.md
+**En esta entrega tienes que acabar esta línea de historia (no tiene continuación)**
+
+Si ves que hay dos repuestas, edita otra línea de la historia.
 
 **********************************************************************
 ### Encabezado
