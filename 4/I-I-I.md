@@ -1,3 +1,9 @@
+Hola! Por favor edita este documento siguiendo la plantilla debajo, ***incluyendo la línea de separación y el encabezado.***
+Ten cuidado de no borrar la plantilla ni las demás contribuciones. 
+Si eliges continuar la respuesta incorecta de la respuesta incorrecta entonces tienes que darle final a esa línea.
+
+Este es el camino Incorrecto-Incorrecto-Incorrecto, en esta entrega tienes que acabar esta línea de historia (no tiene continuación)
+
 **********************************************************************
 ### Encabezado
 
