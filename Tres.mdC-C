@@ -1,0 +1,104 @@
+### Historia
+(Correcta - correcta)
+
+Se despertó a las 22:07,con un gran dolor de cabeza. Vió hacia la ventana y se dió cuenta que estaba en un lugar desconocido. No entendía como llegó ahí, pero estaba muy segura que necesitaba salir de esa casa vieja y abrumadora. 
+
+**22:15** Bajó las escaleras, vió a la anciana dormida en el sofá y tuvo que caminar con sigilo
+
+**22:20** Encontró la puerta, se dió cuenta que necesitaba un pin de 4 dígitos para salir.
+
+Para hallar el pin debes hallar un número entre 200 y 250 tal que multiplicado por 3 de como resultado un número capícua entre 600 y 650. Luego multiplicalo por el tiempo transcurrido desde que se despertó hasta que encontró la puerta y hallarás el pin. Ten en cuenta que un número capícua se lee igual de izquierda a derecha y de derecha a izquierda, por ejemplo: 1221.
+
+**Respuesta** 8268
+
+**Explicación** El número entre 200 y 250 es 212, multiplicado por 3 da 636 que es un número capicua. Luego, se multiplica por los 13 minutos que han pasado y el resultado es 8268.
+
+**Autores** Luis Carlos Bonilla - Néstor Chacón - Juan Diego Moreno
+
+****************************************
+
+**Historia**
+
+Como lograste encontrar el numero de celular que la mama necesitaba para llamar a su hija puedes seguir con el trayecto de la historia.
+Cuando la mama llama al número celular le contesta su hija, ella le dice que esta con un amigo, pero no le dijo el lugar donde estaban, solo le dijo que estaba en los alrededores de la avenida Jiménez pero no le dio la dirección completa, ya que le faltaba la calle y la carrera, también ella le dijo que estaba bien, pero la mama se dio cuenta en el tono de voz que algo malo le pasaba, y decide ir a la avenida Jiménez a buscarla.
+Tienes que ayudar a la mama para poder encontrar la dirección de su hija, y para ello tienes que resolver el siguiente enunciado.
+
+**Problema**
+
+Se tienen dos números de dos cifras tales que:
+
+*La primera cifra de ambos números es la misma
+
+*La segunda cifra de uno de ellos es el doble de la primera
+
+*La suma de los dos números es 75
+
+**Explicación**
+
+*La incógnita x es la primera cifra de ambos números, la segunda cifra de uno de ellos es 2x y la del otro es 3x
+
+(x) (2x)                    (x)(3x)
+
+10.x+2x                   10.x+3x
+
+Como la suma es 75,  se iguala la ecuación a 75, así:
+
+10.x+2x+10.x+3x=75
+
+25x=75
+
+X=3
+
+**Respuesta**
+
+Los números del problema son 36 y 39
+
+(x)(2x) =36
+
+(x)(3x) =39
+
+**Integrantes**
+
+Diana Puerto 
+
+Brayan Figueredo
+***********************************************************
+(Correcta-correcta)
+
+Has encontrado el número, llamas. Timbra una, dos, tres veces; para de timbrar y se oye una voz de fondo, una que grita. Ahora a través del teléfono comienza a sonar una música ¿Es Edith Piaf?, la voz de Non, je ne regrette rien comienzan a confundirse con los gritos. Al parecer es ella! Busca darle una pista a mamá. La música para y se oye un golpe, se escucha la voz de la niña que dice: "Mamá, ¿Recuerdas la casa totalmente negra que nos gustaba ver cuando era pequeña y contar historias de terror frente a ella? Estoy a tres casas, por favor encuéntrame"
+
+Mamá recordaba la casa, pero no cómo llegar, se puso a pensar un poco y recordó la carrera, era carrera 54! Pero ¿Y la calle?
+Ayuda a mamá a encontrar la calle de la dirección, que correspondía a la división de dos números no negativos cuya suma es 5 y el producto de uno con el cuadrado del otro es el mayor resultado posible (El dividendo corresponde al número mayor hallado).
+
+### Respuesta correcta: 2
+### Respuesta incorrecta: 5
+
+## Solución al problema matemático
+ Se sabe que 
+
+x + y = 5
+
+y(x^2) --- máximo
+
+ Dejamos y en función de x en la primera ecuación, y suistituimos en la segunda. Obtenemos 
+
+f(x)= 5x^2-x^3
+
+Maximizamos la función hallando la derivada
+
+f´(x) = 10x - 3x^2
+
+x(10-3x) = 0 
+
+x= 10/3 y= 5/3
+
+Dividimos el número mayor hallado por el menor, es decir
+
+x/y =2
+
+## Autores
+Andrés Valderrama
+
+Angel Bohada
+
+Laura Sofía Perico
