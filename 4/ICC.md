@@ -125,10 +125,10 @@ A dar bien la medida ella podrá lograr escapar de lo contrario no le alcanzara 
  
  Sergio Rosas
 ***************************************************************************************************************************************************************
-#### Historia
+## Historia
 Al salir de aquella casa ella se encuentra con un jardín igual al de su madre y es aquí donde decide sentarse un momento, sentada junto aquellas hermosas flores mirando a la nada pensando en todo; ella se detiene un momento y se dice a sí misma; ¿por qué estoy estoy tan preocupada puedo tomar toda la ligera?; la incertidumbre la aqueja y es allí donde ella empieza alimentar una pequeña sensación de ansiedad tal como su abuela sufría. Un hombre que pasaba por allí escuchó un  susurro, lo invade la curiosidad al intentar saber qué era lo que producía este sonido; el hombre se desea acercar al muro a su vez ella se percata del hombre y...
 
-(Por medio de este planteamiento llegaras a la respuesta correcta)
+(Por medio de este planteamiento llegaras a lo que sucede en la historia)
 
 ##### Problema 
 Dos números suman 25 y el doble de uno de ellos es 14 ¿Qué números son?
@@ -156,7 +156,7 @@ aplicamos la substitucion
 
 X+Y=25   7+Y=25 
 
-    Y=25-7 =18 
+Y=25-7=18 
 
 Por lo tanto , los numero son 7 y 18
 
