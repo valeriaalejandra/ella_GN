@@ -139,6 +139,8 @@ y= segundo numero
  
 Los dos numeros suman 25: 
 
+El doble de uno de los numeros es 14:
+
 ##### Rta Correcta:
 (la niña se esconde ) = 7 y 18
 
@@ -146,8 +148,7 @@ Los dos numeros suman 25:
 (ella le lanza un puñado de tierra por el muro) = 12 y 13
 
 ##### Explicación
-El doble de uno de los numeros es 14:
- 
+
 2X= 14 
 
 aplicamos la substitucion 
