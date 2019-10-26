@@ -89,3 +89,28 @@ Javier Correa
 Rafael Soto
 
 Sebastian Contreras
+
+Cuando logra abrir la puerta del patio se siente agobiada,  ansiosa y frustrada porque nota que para poder escapar, debe saltar un muro de más de 3 metros lo inspecciona y su desesperación aumenta ya que no encuentra la forma o la manera de salir de allí;, regresa a la casa busca objetos que la puedan ayudar a salir, al lado de la cocina observa que hay un cuarto de san alejo(cuarto de chécheres) revisa detenidamente en cajas sin  encontrar  nada que le sirva su angustia aumenta ya que se siente acorralada y va en contra del tiempo pero decide revisar debajo de una mesa en un cajón y allí encuentra herramientas, las toma pero aún no sabe cómo puede armar un estante o una escalera que le permita salir a la calle sigue inspeccionando y detrás de la puerta hay un armario el cual puede abrir encontrando pedazos de madera y unos parales de 310 cm las cuales le sirven para construir una escalera.
+**problema
+
+Para ella poder escapar debe construir una escalera y tiene 8 trozos de 30cm de alto y 25cm de ancho. ¿A qué distancia debería poner los ocho trozos para que ella logre escapar?
+## Respuesta correcta del problema matemático
+7.78 cm
+## Respuesta incorrecta del problema matemático
+8.75 cm
+
+## Solución del problema matemático
+Se multiplican la medida de los pedazos por la cantidad de estas
+8 * 30 cm = 240 cm
+Entonces para que la escalera quede bien armada tendría 9 huecos entre tabla y tabla lo cual conlleva a restarle a 310cm que es lo que mide los parales 240cm que ocupan los 8 trozos así:
+
+310 - 240 = 70 cm
+Entonces al quedar 70 cm se prosigue a dividir 70 cm en 9 y así encontrar la distancia correcta
+70 cm / 9 = 7.78 cm
+
+A dar bien la medida ella podrá lograr escapar de lo contrario no le alcanzara y la capturaran
+ ## Integrantes 
+ 
+ Andrés Agudelo
+ Sergio Páez 
+ Sergio Rosas
