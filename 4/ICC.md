@@ -48,15 +48,21 @@ Respondiste correctamente y permites que ella continúe con su escape.
 
 Salir por la puerta del patio era su única opción, así que Ella corre sin pensarlo dos veces. Pero, no hay a donde ir, estaba en medio del bosque, ¿secuestrada por una anciana?, no había tiempo para pensar en ello, su instinto sólo le decía, ¡corre!, y así lo hizo, tras cinco minutos corriendo vio una cabaña, no había lugar a duda, debía esconderse allí, pero al parecer ella y la anciana no eran las únicas que se encontraban en el bosque en ese momento, la chimenea de la cabaña estaba humeando, ¿buena o mala señal?, ella no lo sabía aún, así que decidió entrar y esconderse antes de que alguien la viera, por lo menos hasta el siguiente día. Si respondes correctamente ella logrará despertarse y huir de la cabaña antes de que alguien la encuentre y si no lo haces será descubierta y sus planes se verán afectados.
 
-**problema
+#### *Problema
+¿Cuál triple del 10% del 50% de 2000?
 
-**Rta correcta 
-**Rta incorrecta
-**integrantes
+#### *Rta correcta 
+300
 
+#### *Rta incorrecta
+Todos los números diferentes de 300
+
+#### *Solución del problema
+Se halla el 50% de 2000: (50 * 2000)/100 = 1000
+Se halla el 10% de 1000: (10 * 1000)/100 = 100
+Se halla la respuesta del problema: 100 * 3 = 300
+
+#### *Integrantes
 Andres Fautoque.
 Diego Quiñonez Salas.
 Juan Bonza.
-
-
-
