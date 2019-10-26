@@ -40,3 +40,25 @@ Adrián Sebastián Neita Garzón
 Adriana Sofia Lancheros Corcobado 
 
 
+**********************************************************************
+
+## Historia 
+
+Se continua la historia por el lado
+
+Incorrecto-Correcto-Correcto
+
+Salir por la puerta del patio era su única opción, así que Ella corre sin pensarlo dos veces. Pero, no hay a donde ir, estaba en medio del bosque, ¿secuestrada por una anciana?, no había tiempo para pensar en ello, su instinto sólo le decía, ¡corre!, y así lo hizo, tras cinco minutos corriendo vio una cabaña, no había lugar a duda, debía esconderse ahí, pero al parecer ella y la anciana no eran las únicas que se encontraban en el bosque en ese momento, la chimenea de la cabaña estaba husmeando, ¿buena o mala señal?, ella no lo sabía, decidió entrar y esconderse, por lo menos hasta el siguiente día.
+
+**problema
+
+**Rta correcta 
+**Rta incorrecta
+**integrantes
+
+Andres Fautoque.
+Diego Quiñonez Salas.
+Juan Bonza.
+
+
+
