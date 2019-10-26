@@ -33,3 +33,12 @@ Juan Sebastian Ruiz
 Sebastian Nore
 **********************************************************************
 
+historia
+
+ma  recordo como  regresar a la casa negra,luego de preguntar a papa por ella . cuando mama  llego a la casa negra al entrar encontro junto a la puerta una caja que decia tu  niña esta bien pero si quieres encontrarla deverias recordar primero cual era su lugar favorito cuando estaba en transicion.la unica pista que te puedo dar es que actualmente esta en ruinas.
+
+
+
+
+
+
