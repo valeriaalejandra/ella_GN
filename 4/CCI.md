@@ -37,8 +37,13 @@ historia
 
 ma  recordo como  regresar a la casa negra,luego de preguntar a papa por ella . cuando mama  llego a la casa negra al entrar encontro junto a la puerta una caja que decia tu  niña esta bien pero si quieres encontrarla deverias recordar primero cual era su lugar favorito cuando estaba en transicion.la unica pista que te puedo dar es que actualmente esta en ruinas.
 
+**********************************************************************
+Respuesta incorrecta:
 
+La madre sale de la casa en busca de su hija, voltea a mirar la hoja rasgada que lleva en la mano derecha, recordando la dirección que creia era la correcta, presiona el boton que abre el garage, prende el auto y conduce por la calle principal, angustiada enciende el GPS de su auto, introduce la dirección de la casa ,sudando frio sin darse cuenta salta varias señales de transito y de un momento a otro se encuentra rodeada de arboles, asustada por sus pensamientos, se decia asi misma, no recuerdo que en esta carretera hubieran tantos arboles, no hay ni una sola casa. Cada vez se le dificultaba mas ver la carretera, mientras seguia su recorrido, en el sendero aparece un hombre de altura promedio con chaqueta de cuero negra y gorra, lucia algo extraño pensó ella y aunque le llamo la atencion aquel hombre, ella sigue su camino, e inesperadamente el GPS le indica que ya llego a su destino, al levantar su rostro observa una casa aparentemente solitaria, en ese momento ella se da cuenta que no existen aquellas tres casas de las que le habia hablado su hija por el telefono, así muere toda esperanza que tenia de encontrarla, su hija no estaba allí. 
 
+Integrantes: 
 
-
-
+Laura García
+Kevin Tibaduiza
+Juan Camilo Palencia
