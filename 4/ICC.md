@@ -193,6 +193,8 @@ El resultado del problema siempre va ser 2.
 ### Integrantes
 
 Camilo Vivas
+
 Cristia Leon
+
 Edgar Rincon
 
