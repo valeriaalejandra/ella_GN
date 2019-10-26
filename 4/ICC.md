@@ -169,3 +169,30 @@ Hernán Pérez
 
 Juan Matallana
 *********************************************************
+## Historia 
+
+Has logrado abrir la puerta pero te siguen persiguiendo y cada vez se acercan más, al voltear te das cuenta que en el patio hay otras dos puertas, una puerta tiene el número 1 y la otra el numero 2 una de las dos puertas nos ayudara escapando de la casa pero en la otra encontraremos una habitación sin salida en donde ella quedara encerrada, pero sorprendida ve una inscripción la cual indica un problema para lograr escapar y elegir la puerta correcta ella debe solucionar el problema.
+
+#### Problema
+
+Escoge un numero cualquiera y multiplícalo por 3, al resultado súmale 6 y divídelo entre 3, y para el último paso resta el número que elegiste en el principio. ¿Cuál es la respuesta?
+
+### Rta correcta: 2.
+
+### Rta incorrecta: Todo número que no sea 2.
+
+### Explicación
+
+El resultado del problema siempre va ser 2.
+8
+8 * 3=24
+24 + 6=30
+30 / 6=10
+10 - 8=2
+
+### Integrantes
+
+Camilo Vivas
+Cristia Leon
+Edgar Rincon
+
