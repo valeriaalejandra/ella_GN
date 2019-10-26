@@ -44,11 +44,9 @@ Adriana Sofia Lancheros Corcobado
 
 ## Historia 
 
-Se continua la historia por el lado
+Respondiste correctamente y permites que ella continúe con su escape.
 
-Incorrecto-Correcto-Correcto
-
-Salir por la puerta del patio era su única opción, así que Ella corre sin pensarlo dos veces. Pero, no hay a donde ir, estaba en medio del bosque, ¿secuestrada por una anciana?, no había tiempo para pensar en ello, su instinto sólo le decía, ¡corre!, y así lo hizo, tras cinco minutos corriendo vio una cabaña, no había lugar a duda, debía esconderse ahí, pero al parecer ella y la anciana no eran las únicas que se encontraban en el bosque en ese momento, la chimenea de la cabaña estaba husmeando, ¿buena o mala señal?, ella no lo sabía, decidió entrar y esconderse, por lo menos hasta el siguiente día.
+Salir por la puerta del patio era su única opción, así que Ella corre sin pensarlo dos veces. Pero, no hay a donde ir, estaba en medio del bosque, ¿secuestrada por una anciana?, no había tiempo para pensar en ello, su instinto sólo le decía, ¡corre!, y así lo hizo, tras cinco minutos corriendo vio una cabaña, no había lugar a duda, debía esconderse allí, pero al parecer ella y la anciana no eran las únicas que se encontraban en el bosque en ese momento, la chimenea de la cabaña estaba humeando, ¿buena o mala señal?, ella no lo sabía aún, así que decidió entrar y esconderse antes de que alguien la viera, por lo menos hasta el siguiente día. Si respondes correctamente ella logrará despertarse y huir de la cabaña antes de que alguien la encuentre y si no lo haces será descubierta y sus planes se verán afectados.
 
 **problema
 
