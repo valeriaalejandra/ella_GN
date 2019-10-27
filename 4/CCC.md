@@ -46,6 +46,7 @@ el número del libro es:
 
 **RESPUESTA CORRECTA. 73**
 
+
 **RESPUESTA INCORRECTA :Cualquier otro número primo** 
 
 **EXPLICACIÓN**
@@ -59,3 +60,21 @@ espejo del 12 : 21=7*3
 **GRUPO:** 
 
 Valeria Rodríguez-Valentina Restrepo-Angela Castro 
+
+**********************************************************************
+
+(Correcto-correcto-correcto)
+
+La mamá encuentra la dirección y es carrera 54 calle 2, sale de inmediato en busca de se hija…al llegar al lugar se da cuenta que no es solo una casa es un conjunto residencial, ella se quedó pensando y su hija no le dio mas pistas por el número de la casa, para ello tienes que desarrollar la siguiente ecuación: 2³x-¹+ 4²x - ² = 8x.
+
+Tienes que encontrar el valor de x para poder encontrar el resultado de la ecuación y así poder encontrar el número de la casa en que se encuentra la hija.
+
+**RTA correcta =** X=3 y la solución de la ecuación es 512
+
+**RTA incorrecta =** X=2 y la solución de la ecuación es 64
+
+**Integrantes**
+
+Brayan Figueredo
+
+Diana Puerto 
