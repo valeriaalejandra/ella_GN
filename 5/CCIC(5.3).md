@@ -2,6 +2,8 @@ De ahora en adelante se nombrarán las historias de acuerdo con https://github.c
 
 Esta historia es la continuación de https://github.com/soleil-zero/ella_GN/blob/master/4/4.3.md si no sirve el link, ve a la branch master en el repositorio y entra a la carpeta 4, esta es la continuación del 4.2 o CCI.
 
+Si ya hay dos contribuciones, no haga más en esta línea de la historia
+
 **********************************************************************
 ### Encabezado
 
