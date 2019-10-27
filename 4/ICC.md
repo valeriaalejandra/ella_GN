@@ -198,3 +198,31 @@ Cristia Leon
 
 Edgar Rincon
 
+*******************************************************
+
+**Historia**
+
+Respondiste correctamente !! Ahora te preguntaras que pudo encontrar al pasar esa puerta… Como ves abriste la puerta del patio, por consiguiente aún sigues en la casa y sin una salida segura. Allí afuera encuentras distintas llaves (cada una con su foto y la llave original al lado ) las cuales abren las diferentes puertas que tienen la casa, pero encuentras que una de ellas específicamente la llave principal no tiene su llave real, eso quería decir que alguien habría llegado primero a robarla y esconderla… Para poder lograr hallar quien ha sido el ladrón tendrás que resolver este problema.
+
+**Problema**
+
+1 + 4 = 5
+2 + 5 = 12
+3 + 6 = 21
+8 + 11 = ?
+
+**Respuesta**
+
+RTA CORRECTA: 40  ;  RTA INCORRECTA: 19
+
+**Explicación**
+
+8 + 11 = 19  y  19 + 21 = 40
+
+**Integrantes**
+
+David Nomesque
+
+Nelson Valbuena
+
+Laura Agudelo
