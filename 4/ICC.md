@@ -207,8 +207,11 @@ Respondiste correctamente !! Ahora te preguntaras que pudo encontrar al pasar es
 **Problema**
 
 1 + 4 = 5
+
 2 + 5 = 12
+
 3 + 6 = 21
+
 8 + 11 = ?
 
 **Respuesta**
