@@ -19,15 +19,24 @@ Solución del problema matemático
 
 Autor o autores de la viñeta
 *******************************************************************
--Historia
+## Historia
+
 Respondes correctamente y la puerta se abre, ella sale asustada a la carretera, se da cuanta que no hay otra casa a kilómetros de distancia, no se encontraba en donde había pensado, sigue corriendo por la carretera sin saber a qué dirrección dirigirse, de pronto se percata de que alguien la esta siguiendo, no se da cuenta de que o quien es, un carro se acerca velozmente, si respondes correctamente puede que las personas del carro la ayuden a escapar 
--Problema matemático 
+
+**-Problema matemático**
+
 Si el resultado de restar el doble de x al quíntuple de x es 33, ¿qué número es x ?
--Respuesta correcta del problema 
+
+**-Respuesta correcta del problema** 
+
 11
--Respuesta in correcta del problema
+
+**-Respuesta in correcta del problema**
+
 Todo numero diferente a 11
--Solución del problema matemático
+
+**-Solución del problema matemático**
+
 El quíntuple de x es 5x.
 El doble de x es 2x.
 Al restarle 2x a 5x se obtiene 33:
@@ -35,7 +44,9 @@ Al restarle 2x a 5x se obtiene 33:
 3x=33
 x=33/3
 x=11
--Autores de la viñeta 
+
+**-Autores de la viñeta**
+
 Adrián Sebastián Neita Garzón 
 Adriana Sofia Lancheros Corcobado 
 
