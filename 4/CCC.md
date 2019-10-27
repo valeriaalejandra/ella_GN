@@ -19,8 +19,12 @@ Respuesta incorrecta del problema matemático
 Solución del problema matemático
 
 Autor o autores de la viñeta
+
 **********************************************************************
-CORRECTO-CORRECTO-CORRECTO 
+
+### SIN TÍTULO 
+_(CORRECTO-CORRECTO-CORRECTO)_
+
 La madre sale a buscar de manera desenfrenada la dirección, el viaje más largo de toda su vida llega allí y en la entrada encuentra 
 a más de tres patrullas policiacas, “oficial, ¿qué pasó acá? Grita desesperadamente , el responde ”este casa esta a punto de caer 
 señora, llevaba deshabitada más de 20 años, los vándalos la tomaban para sus raras mañas y lo incendiaban por ataques de locura, 
@@ -39,11 +43,19 @@ el número del libro es:
 •	El vigésimo primer número primo 
 •	El doceavo número primo es su espejo
 •	El espejo del doce es el resultado de multiplicar las dos cifras del número que estás buscando.
-**RESPUESTA CORRECTA. 73 
-** RESPUESTA INCORRECTA :Cualquier otro número primo 
-**EXPLICACIÓN 
+
+**RESPUESTA CORRECTA. 73**
+
+**RESPUESTA INCORRECTA :Cualquier otro número primo** 
+
+**EXPLICACIÓN**
+
 primo número 21:73
+
 primo número 12:37, espejo del 73
+
 espejo del 12 : 21=7*3
 
-GRUPO : Valeria Rodríguez-Valentina Restrepo-Angela Castro 
+**GRUPO:** 
+
+Valeria Rodríguez-Valentina Restrepo-Angela Castro 
