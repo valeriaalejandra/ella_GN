@@ -19,3 +19,7 @@ Solución del problema matemático
 
 Autor o autores de la viñeta
 **********************************************************************
+### Continaucion
+ En medio de un llanto en la soledad de la calle regresan a sus hogares con la cabeza agachada al suelo aceptando la realidad que golpio sus corazones, lo unico que les queda es la esperanza y la fe de continuar, ya lo que les queda por hacer es esperar a que su hija vuelva a casa 
+ 
+ Integrantes:Jason Martinez- Luisa Casas- Maria Paula Alarcon 
