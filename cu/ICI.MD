@@ -1,7 +1,7 @@
 
 ## INSERTE TÍTULO
 
-Ella no logra salir de la casa, ya que has respondido erroneamente, la puerta no ser abre, Ella decide buscar otra salida, mientras que se esconde y busca otra puerta se da cuenta que es un hombre quien la esta acompañando en la casa, ella tiene temor ya que el hombre tiene un cuchillo y a ella le da miedo que la maten. Ella en un intento de escape cae un jarron y el hombre se da cuenta, que la persigue y la apuñala por la espalda, donde aqui termina la historia.
+Debido a tu errónea decisión la puerta no abre. Durante su permanencia en esa abrumadora casa todo el tiempo estuvo a oscuras, así que la suposición que tuvo siempre fue errónea, nunca fue una anciana, realmente era un exmilitar que tenía otros fines con ella. Al darse cuenta de esto y en búsqueda de otra posible salida encuentra un arma del hombre, la toma y continúa su escapatoria. El hombre, a pesar de que estaba dormido escucha ruidos y sale de su habitación, la encuentra y se miran fijamente, ella con su angustia le apunta y le exige que la deje salir, el hombre se siente amenazado y se acerca lentamente hasta estar a unos pocos pasos de ella, comienza un forcejeo por el arma que resulta en el asesinato de ella, tiempo después es hallado su cuerpo en un campo a las afueras de la ciudad y sus padres son los primeros en saberlo, su busqueda resulta inútil y la culpa jamás dejará de existir.
 
 
 _**No puedes avanzar más por este camino.**_
