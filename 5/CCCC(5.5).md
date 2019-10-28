@@ -77,6 +77,17 @@ Daniel Prieto
 Hernan Perez
 
 Juan Matallana
+
 ********************************************************************************************
+#### Historia
+Vaya! Mamá ha encontrado el libro. Qué extraño, el libro tenía mayúsculas alternadas, pero... vaya! forman una frase. M.....AM....Á...ES.....TO.......Y...EN.....C......A........SA.....DE......LA.....A......B.......U.......EL.....A.
+¿Qué? ¿En casa de la abuela? ¿Todo esto es un chiste?
+Mamá corre a casa de la abuela, abre la puerta, entra a la habitación, y allí está, durmiendo, pero con sangre en la cabeza. Qué extraño, la casa estaba sola porque la abuela se había ido a Cuba de vacaciones ¿Cómo es que la habíian dejado allí?
+Al despertar, no recuerda nada, no  sabe lo que sucedió, ni squiera recuerda haber desaparecido. Pero ¿Quién estaba jugando con su mente? Bueno, ya todo pasó. Has sido muy ágil respondiendo las preguntas, gracias por encontrarla; tal vez luego descubramos qué mente está haciendo todo esto.
 
+##### Integrates
+Andrés Valderrama
 
+Angel Bohada
+
+Sofía Perico
