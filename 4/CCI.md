@@ -55,14 +55,14 @@ Juan Camilo Palencia
 
 Transcurre un día y mamá aún no halla la dirección. Ella se despertó a las 03:07,con un gran dolor de cabeza. Vió hacia la ventana y se dió cuenta que estaba en un lugar desconocido. No entendía como llegó ahí, pero estaba muy segura que necesitaba salir de esa casa vieja y abrumadora.
 
-## 03:15 Bajó las escaleras, vió a la anciana dormida en el sofá y tuvo que caminar con sigilo
+##03:15 Bajó las escaleras, vió a la anciana dormida en el sofá y tuvo que caminar con sigilo
 
-## 03:20 Encontró la puerta, se dió cuenta que necesitaba un pin de 4 dígitos para salir.
+##03:20 Encontró la puerta, se dió cuenta que necesitaba un pin de 4 dígitos para salir.
 
 Para hallar el pin debes hallar un número entre 200 y 250 tal que multiplicado por 3 de como resultado un número capícua entre 600 y 650. Luego multiplicalo por el tiempo transcurrido desde que se despertó hasta que encontró la puerta y hallarás el pin. Ten en cuenta que un número capícua se lee igual de izquierda a derecha y de derecha a izquierda, por ejemplo: 1221.
 
-## Respuesta 8268
+##Respuesta 8268
 
-## Explicación El número entre 200 y 250 es 212, multiplicado por 3 da 636 que es un número capicua. Luego, se multiplica por los 13 minutos que han pasado y el resultado es 8268.
+##Explicación El número entre 200 y 250 es 212, multiplicado por 3 da 636 que es un número capicua. Luego, se multiplica por los 13 minutos que han pasado y el resultado es 8268.
 
-## Autores Luis Carlos Bonilla - Néstor Chacón - Juan Diego Moreno
+##Autores Luis Carlos Bonilla - Néstor Chacón - Juan Diego Moreno
