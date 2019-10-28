@@ -21,3 +21,14 @@ Solución del problema matemático
 
 Autor o autores de la viñeta
 **********************************************************************
+
+
+Respuesta incorrecta
+
+La madre no puede decifrar el codigo  del libro, tras varios intentos  y mucho desspero por parte de ella  y no encontrar  respuestas a todas sus pregubn, la madre sufre de un paro fulminante al corazón, llegando a la tumba sin haber tenido razón de su hija ...
+Tiempo despues el esposo  muere  tras varios intentos de desarrollar en anterior problema llevandolo a una depresion seguida de la muerte.
+
+### integrantes
+Andres Agudelo
+Sergio PAez
+Sergio Rosas
