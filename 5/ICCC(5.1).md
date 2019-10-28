@@ -59,3 +59,15 @@ Javier Correa
 Rafael Soto
 
 Sebastian Contreras
+
+****************************************************
+
+**Historia**
+
+Ella resuleve su problema, dándole como resultado 2622x^2... Ya al tener este valor decide anotarlo y buscarlo en los alrededores del sótano, quizá encontraría algo con ese valor. Se dispone a revisar los libros que se encontraban allí y se da cuenta de que esos libros siguen una secuencia con su orden y que el único que falta es el libro 2622x^2, ella decide buscarlo y al haerlo se encuentra primero con una puerta secreta que se ubicaba justo atras de todos los libros, la abre y lo primero que ve son una hojas regadas y el libro que buscaba, asustada y desesperada entra y abre el libro, ahí encuentra una llave pero al hacerlo, misteriosamente se cierra la puerta secreta, ella gritaba pero nadie la escuchaba... Al final nadie supo de su paradero porque nunca pudo salir de ahí.
+
+Finaliza la historia
+
+**Integrantes**
+
+David Nomesque  Nelson Valbuena  Laura Agudelo
