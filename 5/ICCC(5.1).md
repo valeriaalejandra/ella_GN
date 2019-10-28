@@ -19,3 +19,13 @@ Solución del problema matemático
 
 Autor o autores de la viñeta
 **********************************************************************
+## Historia
+
+Observa con cuidado la caja, ha encontrado la respuesta. Se ilusiona, lo logrará. La pequeña caja se abre, ella busaca una llave, un alambre, una linterna algo que la saque de allí. Pero esta vacía es un trampa, un trampa; encuentra en el fondo un espejo¿Un espejo?. Una vieja puerta se abre, un horrible chirrido. Pasos se escuchan, unas escaleras, las ratas se asustan; un olor fétido se expande en el ambiente. 
+El espejo funciona ve una sombra, un cuchillo, una mascara. Tiene miedo es su fin; lo sabe, el lo sabe. Una sonrisa tétrica atraviesa su extraño rostro a pesar de llevarlo cubierto, saborea el temor en los ojos de la joven. Desea que ella observe cada una de sus acciones, el momento en el que clave el cuchillo en su pecho, ese es su juego... su gran y temible juego.
+
+## Autores
+
+Maria Camila Guatibonza
+Catalina Silvestre
+Laura Jimena Manrique
