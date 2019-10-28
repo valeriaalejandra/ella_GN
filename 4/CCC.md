@@ -78,3 +78,33 @@ Tienes que encontrar el valor de x para poder encontrar el resultado de la ecuac
 Brayan Figueredo
 
 Diana Puerto 
+**********************************************************************
+
+(Correcto-correcto-correcto)
+Ha recordado la dirección! Mamá coge el carro y va a buscar a su hija, es un tema de vida o muerte. Ay, la canción, de nuevo suena en frente de la casa pero ¿Qué significa? Llama a la policía, pero ya no hay nadide, solo una casa horrible y abandonada. Mamá se enfoca en la canción y tiene razón... El museo de música francesa de la ciudad! ¿Cómo no lo había pensado? Estaba a punto de arrancar, pero su carro se ha varado y llama un taxi. Pasan 10 minutos y se parquean 6 taxis cerca. ¿Cuál era el número del taxi?
+
+El número del taxi es:
+
+1. Determinar en las unidades 4C2 (Cómo se pueden agrupar 4 elementos de a dos, sin importar el orden)
+
+2. Las decenas y centenas corresponden a 4P2 (Cómo se pueden agrupar 4 elementos de a dos, importa el orden)
+
+
+
+**RTA correcta =** 126
+
+**RTA incorrecta =** 612
+
+**Procedimiento matemático:**
+4C2= 4!/ (4-2)!2! = 6
+
+4P2= 4!/(4-2)! = 12
+
+**Integrantes**
+
+Sofía Perico
+
+Andrés Valderrama
+
+Angel Bohada
+
