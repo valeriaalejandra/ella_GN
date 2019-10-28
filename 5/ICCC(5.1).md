@@ -46,3 +46,16 @@ Jefferson Suns
 Viviana Rincón
 
 Diego Avendaño
+
+************************************************************************
+## Historia
+
+Lo ha logrado, respuesta correcta, toma valor para abrir el baúl y dentro se encuentra con una linterna, una soga y unas llaves, al final del cuarto al que habia caido ve una puerta y corre desesperadamente a abrirlo, lastimosamente las llaves no sirven pero usa la soga para salir por el hoyo, rapidamente logra salir pero está desorientada así que toma la linterna y empieza a buscar una salida. Al momento escucha unas pequeñas pisadas, asustada, pero no sabe si son de las ratas o de la persona de la que escapa, a un lado encuentra un escondite y va rapidamente, las pisadas se empiezan a escuchar rapidamente y de repente aparece un hombre, no se puede reconocer su rostro, en su mano empuña un arma y la ve fijamente... un triste desenlace.
+
+## Integrantes
+
+Javier Correa
+
+Rafael Soto
+
+Sebastian Contreras
