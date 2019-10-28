@@ -53,7 +53,7 @@ Juan Camilo Palencia
 **********************************************************************
 ### Historia
 
-Transcurre un día y mamá aún no halla la dirección. Ella despierta y son las 03:07,con un gran dolor de cabeza. Vió hacia la ventana y se dió cuenta que estaba en un lugar desconocido. No entendía como llegó ahí, pero estaba muy segura que necesitaba salir de esa casa vieja y abrumadora.
+Transcurren las horas y mamá aún no halla la dirección. Ella despierta y son las 03:07,con un gran dolor de cabeza. Vió hacia la ventana y se dió cuenta que estaba en un lugar desconocido. No entendía como llegó ahí, pero estaba muy segura que necesitaba salir de esa casa vieja y abrumadora.
 
 **03:15** Bajó las escaleras, vió a la anciana dormida en el sofá y tuvo que caminar con sigilo
 
