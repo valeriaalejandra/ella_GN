@@ -42,3 +42,24 @@ Autores de la viñeta
 Adrián sebastián neita garzón 
 Adriana sofia lancheros corcobado 
 
+****************************************************************************************************************
+
+### Correcto-Correcto-Correcto-Correcto 
+
+Busca en el estante el libro indicado, lo encuentra y al tomarlo nota que no es un libro como los demás que se encuentran en ese estante, este era como una especie de diario.
+
+Intrigada y con ganas de saber sobre su hija lo abre, en las primeras páginas aparece lo que tendría un diario cualquiera acompañado de algunos dibujos y de frases, sin embargo, ni la letra ni la historia tenían que ver con su hija. 
+
+La madre esta decidida en dejar el diario de nuevo en el estante, en ese momento ve que detrás de donde iba el libro hay una caja en la cual tenia en un borde escritas las iniciales del nombre de la hija, así que decide abrir la caja en el interior encuentra un celular y una nota. 
+
+Enciende el celular, mecánicamente empieza a revisarlo y encuentra que hay unas fotos de su hija en un parque, parece discutir en cada una de las fotos, no se ve con quien discute, solo se ve en una foto como si la hubiesen empujado, pero no aparece persona alguna.   
+Abre otra carpeta en la galería, por que al parecer hay un video, trata de abrirlo, pero le pide una contraseña de cuatro dígitos, en eso se acordó de la nota que también venía en la caja. En la nota estaba dibujado un trapezoide con medidas de 2cm, 6cm, 7cm y 5cm, la contraseña corresponde a el perímetro del Trapezoide elevado en tres.
+
+**Respuesta correcta:** 8000
+
+**Respuesta incorrecta:** 4200
+
+**Explicación:** Al sumar el valor de cada uno de los lados se obtiene un perímetro de de 20cm y al elevar este número en tres, da como respuesta la contraseña 8000.
+
+**Autores:** Angela Castro, Valentina Reyes, Valeria Rodriguez.
+
