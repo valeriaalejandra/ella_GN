@@ -5,8 +5,7 @@ Este es el camino Incorrecto-Correcto-Incorrecto, es la continuación de https:/
 **En esta entrega tienes que acabar esta línea de historia (no tiene continuación)**
 
 Si ves que hay dos repuestas, edita otra línea de la historia.
-
-**********************************************************************
+*********************************************************************
 ### Encabezado
 
 Texto de la viñeta. Si la viñeta propuesta corresponde una continuación de opción incorrecta debe incluir la explicación de porque se ha equivocado el jugador y qué consecuencia negativa tendrá esto en desarrollo de la historia.
@@ -35,3 +34,12 @@ Has elegido la respuesta incorrecta. La puerta no se abre, la  agita y golpea pe
 * Catalina Silvestre
 * Laura Manrique
 * María Camila Guatibonza
+
+*******************************************************************
+### Historia
+
+Debido a tu errónea decisión la puerta no abre. Durante su permanencia en esa abrumadora casa todo el tiempo estuvo a oscuras, así que la suposición que tuvo siempre fue errónea, nunca fue una anciana, realmente era un exmilitar que tenía otros fines con ella. Al darse cuenta de esto y en búsqueda de otra posible salida encuentra un arma del hombre, la toma y continúa su escapatoria. El hombre, a pesar de que estaba dormido escucha ruidos y sale de su habitación, la encuentra y se miran fijamente, ella con su angustia le apunta y le exige que la deje salir, el hombre se siente amenazado y se acerca lentamente hasta estar a unos pocos pasos de ella, comienza un forcejeo por el arma que resulta en el asesinato de ella, tiempo después es hallado su cuerpo en un campo a las afueras de la ciudad y sus padres son los primeros en saberlo, su busqueda resulta inútil y la culpa jamás dejará de existir.
+
+### Autores
+
+Juan Diego Moreno - Luis Carlos Bonilla - Néstor Chacón
