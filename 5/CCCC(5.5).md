@@ -62,4 +62,21 @@ Abre otra carpeta en la galería, por que al parecer hay un video, trata de abri
 **Explicación:** Al sumar el valor de cada uno de los lados se obtiene un perímetro de de 20cm y al elevar este número en tres, da como respuesta la contraseña 8000.
 
 **Autores:** Angela Castro, Valentina Reyes, Valeria Rodriguez.
+********************************************************************************************
+#### Historia
+Luego de entrar a la tienda la madre encuentra otra pista bastante importante y es que era una nota de su hija a una amiga diciendo que se iba a escapar por una llamada anónima, que le habían hecho a su madre pero ella contestó y la confundieron con su madre donde decía que su papá tenía otra familia, engañandolos a todos entonces ella decide escaparse a la casa de su tía qe vive en otro municipio muy cercano.
+##### Problema
+La mamá se preocupa y decide ir a buscarla pero hay dos rutas una que la lleva directa pero es muy peligrosa y la distancia es de 18 km pero ella  no toma esa ruta y la otra es más larga pero más segura, pero ella solo tiene la distancia hasta la curva que es de 4km, entonces la madre como va a hallar la distancia restatante? 
+##### Rta Correcta: 17,54 km
+##### Rta Incorrecta: 18,5 km
+##### Explicacion
+Tenemos que hacer la ecuacion pitagorica ya que esa va a ser la distancia un poco mas larga pero la menos peligrosa que la madre tiene que seguir para poder encontrar a su hija.
+##### Integrates
+Daniel Prieto
+
+Hernan Perez
+
+Juan Matallana
+********************************************************************************************
+
 
