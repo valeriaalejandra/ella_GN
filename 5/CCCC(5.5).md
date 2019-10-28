@@ -91,3 +91,27 @@ Andrés Valderrama
 Angel Bohada
 
 Sofía Perico
+
+
+## Historia
+Al llegar a la biblioteca y leer el nombre del libro, ella se percata que son una serie de investigaciones sobre secuestros y asesinatos que ocurriero tiempo atrás por un enmascarado el cual nunca se supo cuál era su nombre, tampoco cuántos años tenía, así que cabía la posibilidad que siguiera con vida (Aquellas eran las conclusiones que había sacado ella después de leer esas páginas), percatándose que habían páginas vacías, en la última hoja marcada habían unas letras en negrilla que decían: "Continuará" Al respaldo de aquella hoja, la número 150 tenía el nombre de su hija escrito. De nuevo ella se quedaba sinn pistas ¿Qué hacer ahora? Era lo que ella se preguntaba, hasta que del libro cayó otra nota que decía: Debes completar la siguiente dirección, allí encontrarás otras pistas sobre el paradero de tu hija.
+La dirección es: Ak. 19 # 1187_
+Para hallar el número que falta debes desarrollar el siguiente problema: Calcula un número x de modo que sumar 5 al doble de x tiene el mismo resultado que restar 1 al triple de x.
+
+## Respuestas
+Respuesta incorrecta: 16
+Respuesta correcta: 6
+
+## Explicación
+El doble de x es 2x. Le sumamos 5: 2x+5
+El triple de x es 3x. Le restamos 1: 3x-1
+Igualamos las dos soluciones:
+2x+5=3x-1
+5=3x-1-2x
+5=x-1
+6=x
+
+## Integrantes
+Laura Castellanos
+Juan Fonseca
+Nicolás Ramírez
