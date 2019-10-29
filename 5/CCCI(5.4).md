@@ -35,6 +35,8 @@ Sergio Rosas
 
 ******************************************************************
 
+### Historia
+
 Luego de múltiples intentos, cada uno de estos fallido, por descifrar el código del libro sus padres deciden acudir a alguien más, nunca habían sido los mejores en matemáticas y necesitaban ayuda, pero al parecer nadie podía ayudarlos, o simplemente no querían, el miedo estaba apoderándose de todas las personas y nadie quería involucrarse con la situación así que sus padres salieron de la ciudad para averiguar si alguien  en cualquier parte del mundo podía ayudarlos, parece ser que no fue así, pues ellos nunca regresaron nadie sabe si siguen vivos o ya estan muertos, asesinados, por aquella fuerza misteriosa que les robó a su hija y nunca la devolvió, a día de hoy no se conoce nada más acerca de la familia y nadie desea tocar el tema por las consecuencias que eso les pueda traer.
 
 ### Integrantes
