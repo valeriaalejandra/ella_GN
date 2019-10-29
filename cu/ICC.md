@@ -12,3 +12,15 @@ Dx(874x^3)
 
 #### Rta Incorrecta: 3658x
 
+********************************************************
+#### Historia
+No has acertado la respuesta
+
+Ella toma con sus manos el planteamiento, puede intuir que el resultado debe ser la combinación que le exige el teclado numérico. Se dirige hacia el orificio para poder leer el ejercicio, en la zona donde se encuentra la caja no llega la luz. Empieza a leerlo, pero no se puede concentrar por completo, el sonido de las ratas caminando la pone muy nerviosa. Logra analizar el planteamiento, es un ejercicio de cálculo, pero es de un tema que aun no ha visto en la escuela. Con lo poco que sabe intenta resolverlo, obtiene varias respuestas, digita los resultados en el teclado, pero la caja no cede, lo intenta varias veces, pero la caja simplemente permanece cerrada. Cae en llanto desesperada por su fracaso, golpea el baúl, pero este es imposible de penetrar. Todo empeora cuando las ratas se aburren de ella y empiezan a mirarla, ella entra en pánico, necesita salir de ahí, pero es imposible trepar hacia el hueco, siente unos pasos en el techo, alguien se acerca lentamente. Esta acorralada, no hay escapatoria, solo puede cerrar sus ojos y esperar…
+
+#### Integrantes
+Cristian David Morales
+
+Juan Sebastian Ruiz
+
+Sebastian Nore
