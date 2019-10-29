@@ -33,6 +33,4 @@ primo número 12:37, espejo del 73
 
 espejo del 12 : 21=7*3
 
-**GRUPO:** 
 
-Valeria Rodríguez-Valentina Restrepo-Angela Castro 
