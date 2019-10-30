@@ -61,7 +61,7 @@ Abre otra carpeta en la galería, por que al parecer hay un video, trata de abri
 
 **Explicación:** Al sumar el valor de cada uno de los lados se obtiene un perímetro de de 20cm y al elevar este número en tres, da como respuesta la contraseña 8000.
 
-**Autores:** Angela Castro, Valentina Reyes, Valeria Rodriguez.
+**Autores:** Angela Castro, Valentina Restrepo, Valeria Rodriguez.
 ********************************************************************************************
 #### Historia
 Luego de entrar a la tienda la madre encuentra otra pista bastante importante y es que era una nota de su hija a una amiga diciendo que se iba a escapar por una llamada anónima, que le habían hecho a su madre pero ella contestó y la confundieron con su madre donde decía que su papá tenía otra familia, engañandolos a todos entonces ella decide escaparse a la casa de su tía qe vive en otro municipio muy cercano.
