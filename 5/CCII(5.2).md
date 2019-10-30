@@ -39,3 +39,17 @@ David Nomesque
 Nelson Valbuena
 
 Laura Agudelo
+
+****************************************************************
+
+**Historia**
+
+Ella logra encontrar el pin de la puerta, venta sigilosamente y se encuentra en una calle desconocida, camina por las calles frías, en la noche pensando en lo preocupados que están sus papas, camina por más de 4 cuadras y encuentra un parque que se le hace muy conocido, se dio cuenta que en este parque solían jugar los fines de semana con sus papas y se acordó de lo felices que eran, se pone muy triste y se promete que si encuentra a sus papas va a volver a ser la niña de antes ... Sigue caminando sin rumbo fijo y de un momento a otro se encuentra con su mamá y desde ese momento ella cambia por competo su forma de ver la vida y de valorar el amor de sus padres.
+
+Fin.
+
+**Autores**
+
+Diana Puerto
+
+Brayan Figueredo
