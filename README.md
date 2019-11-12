@@ -42,4 +42,4 @@ A partir de allí los escritores determinarán la continuación de la historia d
 
 - ![Editor](https://img.shields.io/badge/editor-Angie_Díaz-green), ![Editor](https://img.shields.io/badge/editor-Sarah_Suárez-green), ![Editor](https://img.shields.io/badge/editor-Juan_Esteban_Torres-green), ![Editor](https://img.shields.io/badge/editor-María_Lucía_Mariño-green), ![Editor](https://img.shields.io/badge/editor-Valentina_Reyes-green), ![Editor](https://img.shields.io/badge/editor-Samuel_Velazco-green)
 
-- ![Escritor](https://img.shields.io/badge/escritor-tu_nombre-blue)
+- ![Escritor](https://img.shields.io/badge/escritor-Diana_Puerto-blue), ![Escritor](https://img.shields.io/badge/escritor-Brayan_Figueredo_-blue)
